@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9a75d7a4825b03b4fbcf29598d24f28d
+  - enabled: 1
+    path: Assets/Scenes/PlayerVsPlayer.unity
+    guid: 8d2a4038fccc31547bef900fff71e9ba
+  - enabled: 1
+    path: Assets/Scenes/PlayerVsIA.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/VictoryPlayer1.unity
+    guid: fa14c571c2e346a4aa0b808595788cf2
+  - enabled: 1
+    path: Assets/Scenes/VictoryPlayer2.unity
+    guid: 15752c4ec5771f44a925b93982b18c6c
+  m_configObjects: {}
